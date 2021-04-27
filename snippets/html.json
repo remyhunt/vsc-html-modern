@@ -1,0 +1,11 @@
+{
+	"vsc_html-modern" : {
+		"prefix": "vsc-html-modern",
+		"body" : [
+			"<!DOCTYPE html>",
+			
+			"</html>"
+		],
+		"description": "html boilerplate for 2021."
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "remyhunter256@gmail.com",
+      "name": "Remy Hunter",
+      "avatar_url": "",
+      "profile": "https://remyhunt.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 1,
+  "projectName": "vsc_htmlboilerplate_2021",
+  "projectOwner": "remyhunt",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

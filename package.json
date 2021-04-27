@@ -1,0 +1,59 @@
+{
+    "name": "vsc-html-modern",
+    "displayName": "HTML Boilerplate",
+    "publisher": "remyhunt",
+    "description": "A 2021-modern boilerplate for html.",
+    "version": "1.1.1",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^0.10.x"
+    },
+    "homepage": "https://github.com/remyhunt/",
+    "bugs": {
+        "url": "https://github.com/remyhunt/vsc_modern_html/issues",
+        "email": "remyhunter256@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/remyhunt/vsc_modern_html.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "html",
+        "html5",
+        "snippet",
+        "snippets",
+        "boilerplate"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "njk",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/html.json"
+            }
+        ]
+    }
+}
