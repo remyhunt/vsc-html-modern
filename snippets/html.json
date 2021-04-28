@@ -1,10 +1,47 @@
 {
-	"vsc_html-modern" : {
-		"prefix": "vsc-html-modern",
+	"vsc-html-modern" : {
+		"prefix": "HTML Boilerplate 2021",
 		"body" : [
-			"<!DOCTYPE html>",
-			
-			"</html>"
+		"<!DOCTYPE html>",
+		"<html lang=\"en\" class=\"no-js\">",
+		"<head>",
+			"\t<meta charset=\"UTF-8\">",
+			"\t<meta name=\"viewport\" content=\"width=device-width\">",
+
+			"\t<title>Unique page title - My Site</title> <!-- TODO: update page title -->", 
+
+			"\t<script type=\"module\">",
+			"\t\t\tdocument.documentElement.classList.remove('no-js');",
+			"\t\t\tdocument.documentElement.classList.add('js');",
+			"\t</script>",
+
+			"\t<link rel=\"stylesheet\" href=\"/assets/css/styles.css\">",
+			"\t<link rel=\"stylesheet\" href=\"/assets/css/print.css\" media=\"print\">",
+
+			"\t<meta name=\"description\" content=\"Page description\"> <!-- TODO: update meta description -->",
+			"\t<meta property=\"og:title\" content=\"Unique page title - My Site\">  <!-- TODO: update og:title -->",
+			"\t<meta property=\"og:description\" content=\"Page description\">  <!-- TODO: update og:description -->",
+			"\t<meta property=\"og:image\" content=\"https://www.mywebsite.com/image.jpg\">  <!-- TODO: og:image -->",
+			"\t<meta property=\"og:image:alt\" content=\"Image description\"> <!-- TODO: update og:image:alt --> ", 
+			"\t<meta property=\"og:locale\" content=\"en_US\">",
+			"\t<meta property=\"og:type\" content=\"website\">",
+			"\t<meta name=\"twitter:card\" content=\"summary_large_image\"> <!-- TODO: update twitter:cared -->",
+			"\t<meta property=\"og:url\" content=\"https://www.mywebsite.com/page\"> <!-- TODO: update og:url -->",
+			"\t<link rel=\"canonical\" href=\"https://www.mywebsite.com/page\"> <!-- TODO: update canonical link -->",
+
+			"\t<link rel=\"icon\" href=\"/favicon.ico\">",
+			"\t<link rel=\"icon\" href=\"/favicon.svg\" type=\"image/svg+xml\">",
+			"\t<link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\">",
+			"\t<link rel=\"manifest\" href=\"/my.webmanifest\"> <!-- TODO: update web app manifest -->",
+			"\t<meta name=\"theme-color\" content=\"#FF00FF\"> <!-- TODO: update meta theme color -->",
+		"</head>",
+
+		"<body>",
+		"<!-- Content -->",
+		"\t<script src=\"/assets/js/xy-polyfill.js\" nomodule></script>",
+		"\t<script src=\"/assets/js/script.js\" type=\"module\"></script>",
+		"</body>",
+		"</html>"
 		],
 		"description": "html boilerplate for 2021."
 	}
