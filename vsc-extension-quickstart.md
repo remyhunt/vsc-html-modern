@@ -3,7 +3,9 @@
 ## Visual Studio Code Modern HTML Boilerplate
  
 A featureful html boilerplate updated 2021 web standards.
-This extension was inspired by a [blog post](https://www.matuzo.at/blog/html-boilerplate/) These are all common practices, but the writer of this post elegantly published the markup with details and justification line-by-line. I highly recommend visiting that post.
+
+This extension was inspired by a [blog post](https://www.matuzo.at/blog/html-boilerplate/) by Manuel Manuel Matuzovic. The markup used are all common and good  practices for SEO and accesibility. The writer of this post elegantly published the markup with details and justification line-by-line. I highly recommend visiting that post.
+
 
 # Usage
 Start typing 'html*' in an HTML file and select the snippet from the menu in order
