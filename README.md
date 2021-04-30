@@ -5,21 +5,24 @@
 a featureful html boilerplate updated the 2021 web.
 
 # Usage
-Type 'html-' in an HTML file and select the snippet from the menu in order
+Start typing 'html*' in an HTML file and select the snippet from the menu in order
 
-![alt text](https://.gif "usage preview")
+![demo](/images/demo.gif))
 
 # Installation
 
- 
-# Usage
+You can download the package [here via the VSCode marketplace](https://marketplace.visualstudio.com/items?itemName=remyhunt.vsc-html-modern) or search for it in the Extensions sidebar within VSCode.
 
+# File Types
+
+Supported file types are included in `contributes` object of the `package.json` 
+Currently supporting `*.php` and `*.html` files.
  
 # Contact
-If you have any issues report them at [Issues](https://github.com/remyhunt/vsc_html_modern/issues)
+If you have any issues report them at [Issues](https://github.com/remyhunt/vsc-html-modern/issues)
 
 # Source
-[Github](https://github.com/remyhunt/vsc_html_modern/)
+[Github](https://github.com/remyhunt/vsc-html-modern/)
 
 ## Contributors
 

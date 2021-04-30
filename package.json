@@ -2,8 +2,8 @@
     "name": "vsc-html-modern",
     "displayName": "HTML Boilerplate 2021",
     "publisher": "remyhunt",
-    "description": "A 2021-modern boilerplate for html.",
-    "version": "1.1.3",
+    "description": "A robust snippet for HTML pages that satisfy modern web standards.",
+    "version": "1.1.4",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {

@@ -1,6 +1,7 @@
 {
 	"vsc-html-modern" : {
 		"prefix": "HTML Boilerplate 2021",
+		"description": "A robust snippet for HTML pages that satisfy modern web standards..",
 		"body" : [
 		"<!DOCTYPE html>",
 		"<html lang=\"en\" class=\"no-js\">",
@@ -42,7 +43,6 @@
 		"\t<script src=\"/assets/js/script.js\" type=\"module\"></script>",
 		"</body>",
 		"</html>"
-		],
-		"description": "html boilerplate for 2021."
+		]
 	}
 }
