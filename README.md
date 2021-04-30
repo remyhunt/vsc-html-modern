@@ -2,7 +2,8 @@
 
 ## Visual Studio Code Modern HTML Boilerplate
  
-a featureful html boilerplate updated the 2021 web.
+A featureful html boilerplate updated 2021 web standards.
+This extension was inspired by a [blog post](https://www.matuzo.at/blog/html-boilerplate/) These are all common practices, but the writer of this post elegantly published the markup with details and justification line-by-line. I highly recommend visiting that post.
 
 # Usage
 Start typing 'html*' in an HTML file and select the snippet from the menu in order
@@ -26,4 +27,4 @@ If you have any issues report them at [Issues](https://github.com/remyhunt/vsc-h
 
 ## Contributors
 
-[Github](https://github.com/remyhunt/)
+[remy hunter](https://github.com/remyhunt/)
