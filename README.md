@@ -3,6 +3,7 @@
 ## v2.0.* Release Notes 
 
 -Added a simplified version of the boilerplate, for users who are looking for more minimal functionality.
+
 -Added a webmanifest json boilerplate snippet.
 
 ## Visual Studio Code Modern HTML Boilerplate
@@ -23,7 +24,7 @@ You can download the package [here via the VSCode marketplace](https://marketpla
 # File Types
 
 Supported file types are included in `contributes` object of the `package.json` 
-Currently supporting `*.php` and `*.html` files.
+Currently supporting `*.html` and `*.json` files.
  
 # Contact
 If you have any issues report them at [Issues](https://github.com/remyhunt/vsc-html-modern/issues)
