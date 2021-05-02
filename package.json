@@ -39,7 +39,7 @@
                 "path": "./snippets/html.json"
             },
             {
-                "language": "php",
+                "language": "json",
                 "path": "./snippets/html.json"
             }
         ]

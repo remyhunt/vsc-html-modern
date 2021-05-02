@@ -1,0 +1,20 @@
+{
+    "vsc-html-modern-webmanifest" : {
+		"prefix": "HTML Boilerplate 2021 - WebManifest File",
+		"description": "A robust snippet for HTML pages that satisfy modern web standards..",
+		"body" : [
+			"{",
+			"\t\"short_name\": \"\",",
+			"\t\"name\": \"\",",
+			"\t\"icons\": [{",
+			"\t\t\"src\": \"icon.png\",",
+			"\t\t\"type\": \"image/png\",",
+			"\t\t\"sizes\": \"192x192\"",
+			"\t}],",
+			"\t\"start_url\": \"/?utm_source=homescreen\",",
+			"\t\"background_color\": \"#fafafa\",",
+			"\t\"theme_color\": \"#fafafa\"",
+			"}"
+		]
+	}
+}

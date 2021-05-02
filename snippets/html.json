@@ -33,7 +33,7 @@
 			"\t<link rel=\"icon\" href=\"/favicon.ico\">",
 			"\t<link rel=\"icon\" href=\"/favicon.svg\" type=\"image/svg+xml\">",
 			"\t<link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\">",
-			"\t<link rel=\"manifest\" href=\"/my.webmanifest\"> <!-- TODO: update web app manifest -->",
+			"\t<link rel=\"manifest\" href=\"/site.webmanifest\"> <!-- TODO: update web app manifest -->",
 			"\t<meta name=\"theme-color\" content=\"#FF00FF\"> <!-- TODO: update meta theme color -->",
 		"</head>",
 
@@ -44,5 +44,53 @@
 		"</body>",
 		"</html>"
 		]
-	}
+	},
+	"vsc-html-modern-simple" : {
+		"prefix": "HTML Boilerplate 2021 - Simplified Version",
+		"description": "A robust snippet for HTML pages that satisfy modern web standards (simplified)",
+		"body" : [
+		"<!doctype html>",
+		"<html class=\"no-js\" lang=\"\">",
+		
+		"<head>",
+			"\t<meta charset=\"utf-8\">",
+			"\t<title></title>",
+			"\t<meta name=\"description\" content=\"\">",
+			"\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+		
+			"\t<meta property=\"og:title\" content=\"\">",
+			"\t<meta property=\"og:type\" content=\"\">",
+			"\t<meta property=\"og:url\" content=\"\">",
+			"\t<meta property=\"og:image\" content=\"\">",
+		
+			"\t<link rel=\"manifest\" href=\"site.webmanifest\">",
+			"\t<link rel=\"apple-touch-icon\" href=\"icon.png\">",
+			"\t<!-- Place favicon.ico in the root directory -->",
+		
+			"\t<link rel=\"stylesheet\" href=\"css/normalize.css\">",
+			"\t<link rel=\"stylesheet\" href=\"css/style.css\">",
+		
+			"\t<meta name=\"theme-color\" content=\"#fafafa\">",
+		"</head>",
+		
+		"<body>",
+		
+			"\t<!-- Add your site or application content here -->",
+			"\t<p>Hello world! This is HTML5 Boilerplate.</p>",
+			"\t<script src=\"js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js\"></script>",
+			"\t<script src=\"js/app.js\"></script>",
+		
+			"\t<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->",
+			"\t<script>",
+			"\t\twindow.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;",
+			"\t\tga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')",
+			"\t</script>",
+			"\t<script src=\"https://www.google-analytics.com/analytics.js\" async></script>",
+		"</body>",
+		
+		"</html>",
+		]
+	},
+	
+
 }
