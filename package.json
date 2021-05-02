@@ -3,7 +3,7 @@
     "displayName": "HTML Boilerplate 2021",
     "publisher": "remyhunt",
     "description": "A robust snippet for HTML pages that satisfy modern web standards.",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -19,7 +19,7 @@
         "email": "remyhunter256@gmail.com"
     },
     "repository": {
-        "type": "git",
+    "type": "git",
         "url": "https://github.com/remyhunt/vsc-html-modern.git"
     },
     "categories": [
