@@ -2,7 +2,6 @@
  
 A featureful html boilerplate updated 2021 web standards.
 
-
 This extension was inspired by [this](https://github.com/h5bp/html5-boilerplate/blob/master/src/index.html) popular github repository for HTML5 boilerplate, and this [blog post](https://www.matuzo.at/blog/html-boilerplate/) by Manuel Manuel Matuzovic. The markup used are all common and good  practices for SEO and accesibility. The writer of this post elegantly published the markup with details and justification line-by-line. I highly recommend visiting that post.
 
 ## v2.0.* Release Notes 
@@ -13,7 +12,22 @@ This extension was inspired by [this](https://github.com/h5bp/html5-boilerplate/
 
 
 # Usage
-Start typing 'html*' in an HTML file and select the snippet from the menu in order
+Start typing `html*"` in an HTML file and select the snippet from the menu in order
+
+Here's what's included:
+
+`File type:`
+
+`html`
+```
+• HTML Boilerplate 2021
+• HTML Boilerplate 2021 - Simplified Version
+• HTML Boilerplate 2021 - Barebones
+```
+`webmanifest.json`
+``` 
+• HTML Boilerplate 2021 - WebManifest File
+```
 
 ![demo](/images/demo.gif)
 

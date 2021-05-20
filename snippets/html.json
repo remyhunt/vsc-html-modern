@@ -98,9 +98,26 @@
 			"\t<script src=\"https://www.google-analytics.com/analytics.js\" async></script>",
 		"</body>",
 		
-		"</html>",
+		"</html>"
 		]
 	},
+	"vsc-html-modern-barebones" : {
+		"prefix": "HTML Boilerplate 2021 - Barebones",
+		"description": "A barebones html structure",
+		"body" : [
+		"<!doctype html>",
+		"<html>",
+		"<head>\n",
+			"\t<link rel=\"stylesheet\" href=\"\">\n",
+		"</head>\n",
+		"<body>\n",		
+			"\t<script src=\"\"></script>\n",
+		"</body>\n",
+		
+		"</html>"
+		]
+	}
+
 	
 
 }
